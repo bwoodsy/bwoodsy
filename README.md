@@ -6,7 +6,7 @@ CS student building production software and security tools. Currently preparing 
 
 ## 🚀 Featured Projects
 
-### [SecureCode-AI](link-to-repo)
+### [SecureCode-AI](https://github.com/bwoodsy/code-security-scanner)
 AI-powered security scanner that automatically detects vulnerabilities in TypeScript and C# codebases. Built to secure my production software and demonstrate real-world impact.
 
 **Tech:** OpenAI API, TypeScript, C#, Static Analysis
