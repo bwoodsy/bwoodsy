@@ -11,7 +11,7 @@ AI-powered security scanner that automatically detects vulnerabilities in TypeSc
 
 **Tech:** OpenAI API, TypeScript, C#, Static Analysis
 
-### [Business Management System](link-to-repo)
+### [Business Management System](https://github.com/bwoodsy/Business-Management-System)
 Full-stack solution for a phone repair shop handling inventory, customers, and service workflows. Currently serving daily business operations.
 
 **Tech:** C#/.NET, Angular, TypeScript, SQLlite3
