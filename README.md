@@ -1,10 +1,10 @@
-# Hi, I'm Braden 👋
+# Hey, I'm Braden 
 
-CS student building production software and security tools. Currently preparing for **Summer 2025 internships** across Canada.
+CS student building production software and security tools. Currently preparing for **Summer 2026 internships** across Canada.
 
-📍 Edmonton, Alberta | Open to remote opportunities
+Edmonton, Alberta 
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [SecureCode-AI](https://github.com/bwoodsy/code-security-scanner)
 AI-powered security scanner that automatically detects vulnerabilities in TypeScript and C# codebases. Built to secure my production software and demonstrate real-world impact.
@@ -16,7 +16,7 @@ Full-stack solution for a phone repair shop handling inventory, customers, and s
 
 **Tech:** C#/.NET, Angular, TypeScript, SQLlite3
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -29,16 +29,14 @@ Full-stack solution for a phone repair shop handling inventory, customers, and s
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-## 🔨 What I'm Working On
+## What I'm Working On
 
 - **Current:** Developing AI security scanner to find vulnerabilities in production codebases
 - **Next:** Scanning and securing my business management system
 - **Learning:** Security best practices, AI integration patterns
 
-## 📫 Looking For
+## Looking For
 
 Summer/Fall 2026 software engineering internships across Canada (Edmonton, Calgary, Toronto, Vancouver) and remote positions.
 
 ---
-
-💡 *Building production software, then building tools to secure it.*
