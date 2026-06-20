@@ -1,6 +1,6 @@
 # Braden Woods
 
-Third-year Computer Science student at the University of Alberta building production software and security tools. Currently seeking **Summer/Fall 2026 software engineering internships**.
+Fourth year Computer Science student at the University of Alberta building production software and security tools. Currently interning at INVIDI.
 
 Edmonton, Alberta · [bradenwoods.dev](https://bradenwoods.dev)
 
@@ -63,4 +63,3 @@ Contributing to **SAPAA**, a production React/TypeScript application serving an 
 
 - bwoodsy12@gmail.com
 - [bradenwoods.dev](https://bradenwoods.dev)
-- Open to Summer/Fall 2026 internships across Canada and remote positions
